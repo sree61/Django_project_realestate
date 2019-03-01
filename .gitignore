@@ -1,0 +1,12 @@
+
+10 lines (10 sloc) 87 Bytes
+*.log
+*.pot
+*.pyc
+__pycache__/
+local_settings.py
+db.sqlite3
+/media
+venv
+/static
+.vscode
